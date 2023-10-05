@@ -1,4 +1,4 @@
-const Input = (props) => {
+const Input = ({props}) => {
   return <input {...props} />;
 };
 
