@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/homework-3-cathgiese/static/css/main.cabfa11d.css",
+    "main.js": "/homework-3-cathgiese/static/js/main.219ac80d.js",
+    "index.html": "/homework-3-cathgiese/index.html",
+    "main.cabfa11d.css.map": "/homework-3-cathgiese/static/css/main.cabfa11d.css.map",
+    "main.219ac80d.js.map": "/homework-3-cathgiese/static/js/main.219ac80d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cabfa11d.css",
+    "static/js/main.219ac80d.js"
+  ]
+}
