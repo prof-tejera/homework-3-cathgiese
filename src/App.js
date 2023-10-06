@@ -1,10 +1,7 @@
 import MediaButtons from "MediaButtons/MediaButtons";
 import LoginForm from "LoginForm/LoginForm";
 import Pager from "Pager/Pager";
-import RadioButtons from "RadioButtons/RadioButtons";
-import Button from "components/Button/Button";
-import Input from "components/Input/Input";
-import Panel from "components/Panel/Panel";
+import RadioButtons from "RadioButtons/RadioButtons"
 
 import "./App.css";
 
