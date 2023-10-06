@@ -1,7 +1,8 @@
 import MediaButtons from "MediaButtons/MediaButtons";
 import LoginForm from "LoginForm/LoginForm";
 import Pager from "Pager/Pager";
-import RadioButtons from "RadioButtons/RadioButtons";
+import RadioButtons from "RadioButtons/RadioButtons"
+
 import "./App.css";
 
 const App = () => {
